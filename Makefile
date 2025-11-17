@@ -14,4 +14,4 @@ test: VulkanTutorial
 	./VulkanTutorial
 
 clean:
-	rm -f VulkanTest shaders/frag.spv shaders/vert.spv
+	rm -f VulkanTutorial shaders/frag.spv shaders/vert.spv
